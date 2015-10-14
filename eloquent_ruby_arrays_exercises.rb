@@ -38,3 +38,4 @@ puts "Beth \n4'9\""
 beth_bytes = []
 "Beth".each_byte { |b|  beth_bytes << b }
 puts beth_bytes
+# ASCII
